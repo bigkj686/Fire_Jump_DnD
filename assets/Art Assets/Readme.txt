@@ -1,0 +1,1 @@
+This folder includes sprites for two separate characters (Character_1 and Character_2), and you may use either of those for following the tutorial.
