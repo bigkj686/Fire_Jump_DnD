@@ -41,5 +41,25 @@ if(y < room_height / 2)
 		/// @DnDArgument : "value" "room_height / 2"
 		/// @DnDArgument : "instvar" "1"
 		y = room_height / 2;
+	
+		/// @DnDAction : YoYo Games.Common.Function_Call
+		/// @DnDVersion : 1
+		/// @DnDHash : 5DA04354
+		/// @DnDParent : 0323E9E8
+		/// @DnDArgument : "var" "back_y"
+		/// @DnDArgument : "var_temp" "1"
+		/// @DnDArgument : "function" "layer_get_y"
+		/// @DnDArgument : "arg" ""Background""
+		var back_y = layer_get_y("Background");
+	
+		/// @DnDAction : YoYo Games.Common.Function_Call
+		/// @DnDVersion : 1
+		/// @DnDHash : 534204C7
+		/// @DnDInput : 2
+		/// @DnDParent : 0323E9E8
+		/// @DnDArgument : "function" "layer_y"
+		/// @DnDArgument : "arg" ""Background""
+		/// @DnDArgument : "arg_1" "back_y + downspeed"
+		layer_y("Background", back_y + downspeed);
 	}
 }

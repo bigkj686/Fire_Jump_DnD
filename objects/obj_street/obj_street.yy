@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_window",
-    "path": "sprites/spr_window/spr_window.yy",
+    "name": "spr_street",
+    "path": "sprites/spr_street/spr_street.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -33,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_window",
+  "name": "obj_street",
   "tags": [],
   "resourceType": "GMObject",
 }
