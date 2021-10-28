@@ -12,4 +12,13 @@ if(vspeed > 0)
 	/// @DnDArgument : "speed" "-35"
 	/// @DnDArgument : "type" "2"
 	vspeed = -35;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 11F9F379
+	/// @DnDParent : 1FA67B4F
+	/// @DnDArgument : "spriteind" "spr_player_jump"
+	/// @DnDSaveInfo : "spriteind" "spr_player_jump"
+	sprite_index = spr_player_jump;
+	image_index = 0;
 }
