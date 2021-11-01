@@ -7,3 +7,10 @@
 /// @DnDArgument : "option_1" "spr_civilian_1"
 /// @DnDArgument : "option_2" "spr_civilian_2"
 sprite_index = choose(spr_civilian_0, spr_civilian_1, spr_civilian_2);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5617B914
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "rescued"
+rescued = false;
