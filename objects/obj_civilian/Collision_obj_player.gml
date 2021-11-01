@@ -13,6 +13,15 @@ if(rescued == false)
 	/// @DnDArgument : "var" "rescued"
 	rescued = true;
 
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 48BE20AA
+	/// @DnDParent : 6F295EC8
+	/// @DnDArgument : "value" "1"
+	/// @DnDArgument : "value_relative" "1"
+	/// @DnDArgument : "var" "score_rescue"
+	global.score_rescue += 1;
+
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 038BAA56

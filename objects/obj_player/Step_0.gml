@@ -61,5 +61,14 @@ if(y < room_height / 2)
 		/// @DnDArgument : "arg" ""Background""
 		/// @DnDArgument : "arg_1" "back_y + downspeed"
 		layer_y("Background", back_y + downspeed);
+	
+		/// @DnDAction : YoYo Games.Common.Set_Global
+		/// @DnDVersion : 1
+		/// @DnDHash : 515B5611
+		/// @DnDParent : 0323E9E8
+		/// @DnDArgument : "value" "downspeed / 100"
+		/// @DnDArgument : "value_relative" "1"
+		/// @DnDArgument : "var" "global.score_height"
+		global.score_height += downspeed / 100;
 	}
 }
