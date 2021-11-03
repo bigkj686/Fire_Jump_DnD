@@ -1,5 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"spr_player_defeated","path":"sprites/spr_player_defeated/spr_player_defeated.yy",},"order":10,},
+    {"id":{"name":"spr_fire","path":"sprites/spr_fire/spr_fire.yy",},"order":9,},
+    {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},"order":8,},
     {"id":{"name":"obj_move_parent","path":"objects/obj_move_parent/obj_move_parent.yy",},"order":2,},
     {"id":{"name":"spr_civilian_2","path":"sprites/spr_civilian_2/spr_civilian_2.yy",},"order":2,},
     {"id":{"name":"spr_jump_effect","path":"sprites/spr_jump_effect/spr_jump_effect.yy",},"order":8,},
@@ -23,6 +26,7 @@
     {"id":{"name":"obj_score_height","path":"objects/obj_score_height/obj_score_height.yy",},"order":6,},
     {"id":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"order":3,},
     {"id":{"name":"spr_civilian_1","path":"sprites/spr_civilian_1/spr_civilian_1.yy",},"order":1,},
+    {"id":{"name":"obj_player_defeated","path":"objects/obj_player_defeated/obj_player_defeated.yy",},"order":9,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
