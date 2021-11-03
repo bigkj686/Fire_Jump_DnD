@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"obj_move_parent","path":"objects/obj_move_parent/obj_move_parent.yy",},"order":2,},
     {"id":{"name":"spr_civilian_2","path":"sprites/spr_civilian_2/spr_civilian_2.yy",},"order":2,},
+    {"id":{"name":"spr_jump_effect","path":"sprites/spr_jump_effect/spr_jump_effect.yy",},"order":8,},
     {"id":{"name":"spr_civilian_rescued_1","path":"sprites/spr_civilian_rescued_1/spr_civilian_rescued_1.yy",},"order":4,},
     {"id":{"name":"spr_player_air","path":"sprites/spr_player_air/spr_player_air.yy",},"order":0,},
     {"id":{"name":"spr_street","path":"sprites/spr_street/spr_street.yy",},"order":3,},
@@ -11,6 +12,7 @@
     {"id":{"name":"spr_civilian_rescued_2","path":"sprites/spr_civilian_rescued_2/spr_civilian_rescued_2.yy",},"order":5,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_player_fall","path":"sprites/spr_player_fall/spr_player_fall.yy",},"order":5,},
+    {"id":{"name":"obj_jump_effect","path":"objects/obj_jump_effect/obj_jump_effect.yy",},"order":7,},
     {"id":{"name":"obj_window","path":"objects/obj_window/obj_window.yy",},"order":1,},
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},"order":0,},
     {"id":{"name":"spr_civilian_rescued_0","path":"sprites/spr_civilian_rescued_0/spr_civilian_rescued_0.yy",},"order":3,},
