@@ -25,6 +25,7 @@
     {"id":{"name":"spr_window","path":"sprites/spr_window/spr_window.yy",},"order":1,},
     {"id":{"name":"obj_civilian","path":"objects/obj_civilian/obj_civilian.yy",},"order":4,},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":0,},
+    {"id":{"name":"snd_game_music","path":"sounds/snd_game_music/snd_game_music.yy",},"order":0,},
     {"id":{"name":"spr_foam","path":"sprites/spr_foam/spr_foam.yy",},"order":11,},
     {"id":{"name":"obj_score_height","path":"objects/obj_score_height/obj_score_height.yy",},"order":6,},
     {"id":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"order":3,},
