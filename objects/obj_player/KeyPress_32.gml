@@ -7,3 +7,10 @@
 /// @DnDArgument : "layer" ""Spawns""
 /// @DnDSaveInfo : "objectid" "obj_foam"
 instance_create_layer(x + 0, y + 0, "Spawns", obj_foam);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 0CCC81DE
+/// @DnDArgument : "soundid" "snd_player_shoot"
+/// @DnDSaveInfo : "soundid" "snd_player_shoot"
+audio_play_sound(snd_player_shoot, 0, 0);

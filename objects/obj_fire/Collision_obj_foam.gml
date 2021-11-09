@@ -18,3 +18,10 @@ instance_destroy();
 /// @DnDArgument : "type" "obj_game.fire"
 /// @DnDArgument : "number" "4"
 part_particles_create(obj_game.particle_system, x + 0, y + 0, obj_game.fire, 4);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 65C01151
+/// @DnDArgument : "soundid" "snd_fire_out"
+/// @DnDSaveInfo : "soundid" "snd_fire_out"
+audio_play_sound(snd_fire_out, 0, 0);
