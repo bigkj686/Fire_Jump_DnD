@@ -74,3 +74,12 @@ audio_stop_all();
 /// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "snd_game_music"
 audio_play_sound(snd_game_music, 0, 1);
+
+/// @DnDAction : YoYo Games.Sequences.Sequence_Create
+/// @DnDVersion : 1
+/// @DnDHash : 31341D99
+/// @DnDArgument : "var" ""
+/// @DnDArgument : "sequenceid" "seq_transition_end"
+/// @DnDArgument : "layer" ""Transition""
+/// @DnDSaveInfo : "sequenceid" "seq_transition_end"
+layer_sequence_create("Transition", 0, 0, seq_transition_end);
