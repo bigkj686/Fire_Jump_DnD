@@ -1,9 +1,11 @@
 {
   "resources": [
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},"order":13,},
+    {"id":{"name":"seq_game_over","path":"sequences/seq_game_over/seq_game_over.yy",},"order":3,},
     {"id":{"name":"spr_player_defeated","path":"sprites/spr_player_defeated/spr_player_defeated.yy",},"order":10,},
     {"id":{"name":"spr_fire","path":"sprites/spr_fire/spr_fire.yy",},"order":9,},
     {"id":{"name":"snd_player_defeat","path":"sounds/snd_player_defeat/snd_player_defeat.yy",},"order":2,},
+    {"id":{"name":"spr_game_over","path":"sprites/spr_game_over/spr_game_over.yy",},"order":17,},
     {"id":{"name":"snd_button","path":"sounds/snd_button/snd_button.yy",},"order":6,},
     {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},"order":8,},
     {"id":{"name":"snd_player_shoot","path":"sounds/snd_player_shoot/snd_player_shoot.yy",},"order":4,},
@@ -40,6 +42,8 @@
     {"id":{"name":"obj_civilian","path":"objects/obj_civilian/obj_civilian.yy",},"order":4,},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":0,},
     {"id":{"name":"snd_game_music","path":"sounds/snd_game_music/snd_game_music.yy",},"order":0,},
+    {"id":{"name":"obj_replay_button","path":"objects/obj_replay_button/obj_replay_button.yy",},"order":15,},
+    {"id":{"name":"obj_menu_button","path":"objects/obj_menu_button/obj_menu_button.yy",},"order":16,},
     {"id":{"name":"snd_fire_out","path":"sounds/snd_fire_out/snd_fire_out.yy",},"order":1,},
     {"id":{"name":"spr_foam","path":"sprites/spr_foam/spr_foam.yy",},"order":11,},
     {"id":{"name":"obj_score_height","path":"objects/obj_score_height/obj_score_height.yy",},"order":6,},
